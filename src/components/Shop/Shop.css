@@ -1,0 +1,44 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+.products{
+
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.product-container{
+    border-right: 1px solid rgba(241, 10, 133, 0.802);
+    margin-right: 5px;
+    margin-left: 40px;
+}
+.search-container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+   line-height: 40px;
+}
+.search-container input{
+    width: 50%;
+    height: 30px;
+    background-color: rgb(255, 240, 252);
+    border:2px solid rgba(241, 10, 133, 0.802); 
+}
+.search-container input:hover{
+   background-color: white;
+}
+.see-more{
+    text-align: center;
+    cursor: pointer;
+}
+.see-more button{
+    border: none;
+    background-color: white;
+    color:rgba(241, 10, 133, 0.802);
+    font-weight: 700;
+    font-size: large;
+    width: 150px;
+    height: 25px;
+}
+
+
