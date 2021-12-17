@@ -10,7 +10,7 @@
 }
 
 .btn-regular{
-    background-color: rgba(241, 10, 133, 0.802);
+    background-color: rgba(2, 8, 125, 0.802);
     width: 150px;
     height: 25px;
     border: 1px solid pink;
@@ -18,7 +18,8 @@
     font-weight: 700;
     cursor: pointer;
     margin-bottom: 10px;
+    color: white;
 }
 .icon-color{
-    color:rgba(241, 10, 133, 0.802);
+    color:rgba(10, 22, 243, 0.557);
 }

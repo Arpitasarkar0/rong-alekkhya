@@ -1,6 +1,9 @@
 .order-summary{
     text-align: center;
 }
+.order-summary h3{
+    color: rgba(2, 8, 125, 0.802);
+}
 .total{
    
     margin-left: 50px;

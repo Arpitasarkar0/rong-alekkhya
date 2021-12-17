@@ -1,0 +1,10 @@
+.review-product{
+    display: flex;
+   /* justify-content: center; */
+   margin-top: 40px;
+}
+.product-recview-img{
+    width: 200px;
+    height: 250px;
+    margin-right:100px;
+}
